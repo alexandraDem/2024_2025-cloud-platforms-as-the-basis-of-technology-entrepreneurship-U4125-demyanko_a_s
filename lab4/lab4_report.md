@@ -79,7 +79,7 @@ Date of finished: 05.05.2025
 - Добавлены: CI/CD (Cloud Build), BigQuery, мониторинг и логирование.
 
 **Схема:**  
-![Продакшен]([prod.png](https://github.com/alexandraDem/2024_2025-cloud-platforms-as-the-basis-of-technology-entrepreneurship-U4125-demyanko_a_s/blob/c63ccd0b06c80b8bc3e018d7342bdbd588405c80/lab4/prod.png))
+![Продакшен]((https://github.com/alexandraDem/2024_2025-cloud-platforms-as-the-basis-of-technology-entrepreneurship-U4125-demyanko_a_s/blob/c63ccd0b06c80b8bc3e018d7342bdbd588405c80/lab4/prod.png)
 
 **Нагрузка:** до 1000 пользователей в день.
 
