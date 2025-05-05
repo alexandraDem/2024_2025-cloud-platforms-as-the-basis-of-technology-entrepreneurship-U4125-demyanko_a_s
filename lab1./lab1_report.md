@@ -29,6 +29,10 @@ Date of finished: 05.05.2025
 
 3. С помощью утилиты gsutils найдите бакет lab1-bucket-itmo и скопируйте 3 файла в локальную папку на VM. Используя команду ls -lah отобразите что эти файлы хранятся у вас на VM.
 
-4. Поменяйте права доступа для вашего service account с Storage Admin на Compute Viewer, попробуйте повторить пункт с копированием данных, сделать выводы.
+   ![text](https://github.com/alexandraDem/2024_2025-cloud-platforms-as-the-basis-of-technology-entrepreneurship-U4125-demyanko_a_s/blob/1f58bf8de8b9f8ac242dcbc95c0bac50290518ee/lab1./download.jpg)
 
-5. Удалите за собой все созданные сервисы, напишите отчет с использованием скриншотов.
+   
+
+5. Поменяйте права доступа для вашего service account с Storage Admin на Compute Viewer, попробуйте повторить пункт с копированием данных, сделать выводы.
+
+6. Удалите за собой все созданные сервисы, напишите отчет с использованием скриншотов.
