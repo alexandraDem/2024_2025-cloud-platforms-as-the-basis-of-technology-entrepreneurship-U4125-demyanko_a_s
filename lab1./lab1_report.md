@@ -20,7 +20,7 @@ Date of finished: 05.05.2025
 
 В качестве нейминга используйте первую букву имени и фамилию, а также добавьте -sa-lab1. Например Ivan Filianin = ifilianin-sa-lab1.
 
-![Alt text](/storageAdmin.png "Storage Admin Account")
+![Alt text](https://github.com/alexandraDem/2024_2025-cloud-platforms-as-the-basis-of-technology-entrepreneurship-U4125-demyanko_a_s/blob/43dbea54c6737efed15d3f2ccdf75d1ac504b1be/lab1./storageAdmin.png)
 
 
 2. Создать минимальный compute engine (виртуальную машину) с Machine type e2-micro в режиме spot.
