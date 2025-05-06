@@ -85,7 +85,7 @@ Date of finished: 05.05.2025
 **Затраты:**
 | Компонент | Цена (USD) |
 |-----------|------------|
-| GKE Standard | 136.80 |
+| GKE Standard | 429.68 |
 | Vertex AI | 136.80 |
 | Cloud Storage (200 GB) | 5.20 |
 | Cloud SQL (db-n1-standard-2) | 68.40 |
