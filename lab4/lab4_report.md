@@ -36,7 +36,7 @@ Date of finished: 05.05.2025
 **Схема:**  
 ![MVP](https://github.com/alexandraDem/2024_2025-cloud-platforms-as-the-basis-of-technology-entrepreneurship-U4125-demyanko_a_s/blob/c63ccd0b06c80b8bc3e018d7342bdbd588405c80/lab4/mvp.png)
 
-**Нагрузка:** 10 пользователей в день, 1–5 запросов в минуту.
+**Нагрузка:** ок. 10 пользователей в день, 1–5 rps.
 
 **Затраты:**
 | Компонент | Цена (USD) |
