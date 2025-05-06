@@ -75,7 +75,6 @@ Date of finished: 05.05.2025
 **Изменения:**
 - Backend продолжает работать на GKE Standard, но в продовой конфигурации.
 - Cloud SQL увеличен до db-n1-standard-2.
-- Cloud Storage расширен до 200 ГБ.
 - Добавлены: CI/CD (Cloud Build), BigQuery, мониторинг и логирование.
 
 **Схема:**  
